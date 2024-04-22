@@ -16,7 +16,6 @@
         <div class="section">
             <h2>Social Media Platforms</h2>
             <ul class="list">
-                <li><a href="https://www.youtube.com/channel/UCgHQO8wGuZyIN07aCeZu57Q">YouTube</a></li>
                 <li><a href="https://www.linkedin.com/in/michael-ricci-456003282">LinkedIn</a></li>
                 <!-- Add more social media platforms here -->
             </ul>
