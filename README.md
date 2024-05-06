@@ -22,9 +22,9 @@
         </div>
         <div class="section">
             <h2>Cybersecurity Projects</h2>
-            <p>Zenmap</p>
+            <p>Zenmap (coming soon)</p>
             <p>WireShark</p>
-            <p>Log Analysis</p>
+            <p>Log Analysis (coming soon)</p>
             </p>
             <!-- Add more details about your projects as needed -->
         </div>
