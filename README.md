@@ -1,24 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Michael Ricci's Cybersecurity Portfolio</title>
-    <style>
-        .container {
-            font-family: Arial, sans-serif;
-            margin: 0 auto;
-            padding: 20px;
-            max-width: 800px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>👋 Welcome to My Cybersecurity Portfolio</h1>
