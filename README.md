@@ -42,13 +42,6 @@
             </ul>
         </div>
         <div class="section">
-            <h2>🛠️ Cybersecurity Projects</h2>
-            <p>Zenmap (coming soon)</p>
-            <p>WireShark</p>
-            <p>Log Analysis (coming soon)</p>
-            <!-- Add more details about your projects as needed -->
-        </div>
-        <div class="section">
             <h2>📂 My Repositories</h2>
             <ul class="list">
                 <li><a href="https://github.com/MichaelRicci/WireShark-Capture-the-flag/blob/main/README.md">Wireshark</a></li>
