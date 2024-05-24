@@ -1,5 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Ricci's Cybersecurity Portfolio</title>
+    <style>
+        .container {
+            font-family: Arial, sans-serif;
+            margin: 0 auto;
+            padding: 20px;
+            max-width: 800px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+    </style>
+</head>
 <body>
     <div class="container">
         <h1>👋 Welcome to My Cybersecurity Portfolio</h1>
@@ -28,6 +47,14 @@
             <p>WireShark</p>
             <p>Log Analysis (coming soon)</p>
             <!-- Add more details about your projects as needed -->
+        </div>
+        <div class="section">
+            <h2>📂 My Repositories</h2>
+            <ul class="list">
+                <li><a href="[https://github.com/username/repo1](https://github.com/MichaelRicci/WireShark-Capture-the-flag/blob/main/README.md)">Wireshark</a></li>
+                <li><a href="https://github.com/username/repo2">Repository 2</a></li>
+                <!-- Add more repository links here -->
+            </ul>
         </div>
     </div>
 </body>
