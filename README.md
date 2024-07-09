@@ -29,7 +29,7 @@
         <div class="section">
             <h2>📂 My Repositories</h2>
             <ul class="list">
-                <li><a href="https://github.com/MichaelRicci/python">Python</a></li>
+                <li><a href="https://github.com/MichaelRicci/python">DNSTwist Application</a></li>
                 <!-- Add more repository links here -->
             </ul>
         </div>
