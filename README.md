@@ -4,7 +4,7 @@
     <div class="container">
         <h1>👋 Welcome to My Cybersecurity Portfolio</h1>
         <div class="website-link">
-            <a href="https://michaelricci.github.io/">Visit My Website</a> 
+            <a href="https://michaelricci.github.io/](https://mike-ricci.com/">Visit My Website</a> 
             <p> Check out my website for my write ups on analysis, tools and other cyber related topics. Or stick around here to view my coding to help Cyber Threat Intelligence Analysts.</p>
         </div>
         <div class="section">
