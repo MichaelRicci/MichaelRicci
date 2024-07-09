@@ -30,7 +30,7 @@
             <h2>📂 My Repositories</h2>
             <ul class="list">
                 <li><a href="https://github.com/MichaelRicci/WireShark-Capture-the-flag/blob/main/README.md">Wireshark</a></li>
-                <li><a href="https://github.com/username/repo2">Repository 2</a></li>
+                <li><a href="https://github.com/username/repo2](https://mike-ricci.com/">Repository 2</a></li>
                 <!-- Add more repository links here -->
             </ul>
         </div>
